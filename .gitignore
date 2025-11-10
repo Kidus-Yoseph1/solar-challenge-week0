@@ -1,2 +1,7 @@
-venv
-/data
+
+data/
+*.csv
+*.ipynb_checkpoints/
+.env
+venv/
+**/__pycache__/
