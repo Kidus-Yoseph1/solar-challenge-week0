@@ -1,5 +1,8 @@
-numpy
 pandas
+numpy
 matplotlib
 seaborn
+scipy
 windrose
+streamlit
+pytest
